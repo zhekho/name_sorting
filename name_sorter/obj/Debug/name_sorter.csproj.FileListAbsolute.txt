@@ -1,0 +1,9 @@
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\bin\Debug\name_sorter.exe.config
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\bin\Debug\name_sorter.exe
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\bin\Debug\name_sorter.pdb
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\obj\Debug\name_sorter.csprojResolveAssemblyReference.cache
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\obj\Debug\name_sorter.Properties.Resources.resources
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\obj\Debug\name_sorter.csproj.GenerateResource.Cache
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\obj\Debug\name_sorter.exe
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\obj\Debug\name_sorter.pdb
+C:\[DATA]\[PROJECT]\name_sorter\name_sorter\obj\Debug\name_sorter.name_sorter.resources
